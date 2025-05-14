@@ -1,0 +1,25 @@
+{
+  "width": 508,
+  "height": 136,
+  "cx": [
+    [ "LABEL", 33 ],
+    [ "CATEGORISE", 137 ],
+    [ "TASK", 257 ],
+    [ "CONTAINS", 369 ],
+    [ "LIST", 470 ]
+  ],
+  "cy": [
+    [ "LABEL", 68 ],
+    [ "CATEGORISE", 68 ],
+    [ "TASK", 68 ],
+    [ "CONTAINS", 68 ],
+    [ "LIST", 68 ]
+  ],
+  "shift": [
+    [ "CATEGORISE,TASK,0", 0 ],
+    [ "CATEGORISE,LABEL,0", 0 ],
+    [ "CONTAINS,LIST,0", 0 ],
+    [ "CONTAINS,TASK,0", 0 ]
+  ],
+  "ratio": []
+}

@@ -1,0 +1,5 @@
+LABEL: name, color
+CATEGORISE, 0N TASK, 0N LABEL
+TASK: title, color, position, created_at, updated_at
+CONTAINS, 0N LIST, 11 TASK
+LIST: name, position
