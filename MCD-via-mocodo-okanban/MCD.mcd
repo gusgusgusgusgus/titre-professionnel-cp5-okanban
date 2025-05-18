@@ -1,5 +1,5 @@
-LABEL: name, color
+LABEL: name, color, created_at, updated_at
 CATEGORISE, 0N TASK, 0N LABEL
 TASK: title, color, position, created_at, updated_at
 CONTAINS, 0N LIST, 11 TASK
-LIST: name, position
+LIST: name, position, created_at, updated_at
